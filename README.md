@@ -14,8 +14,11 @@ repository), to work. So, running this on a stock VDP will not work.
 
 Assuming you have the right VDP, then copy all the files into a folder
 and then just load and run loader.bas. It will automatically CHAIN
-boing.bas when it is done. Once the bitmaps are loaded you can re-run
+boing.bas when it is done. **It takes a couple of minutes to load all
+the bitmaps**. Once the bitmaps are loaded you can re-run
 the boing.bas. I did it like this to make debugging easier.
+
+![Loader Screenshot](https://github.com/leighbb/agon-boing/blob/main/screenshots/loader.jpg?raw=true)
 
 **NOTE** If you Escape out the program, the screen will not refresh as
 it will be in double-buffer mode.  Type "MODE 3" (or whatever) to
