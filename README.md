@@ -1,5 +1,7 @@
 # Boing for Agon Light
 
+![Boing Screenshot](https://github.com/leighbb/agon-boing/blob/main/screenshots/boing.jpg?raw=true)
+
 ## Introduction
 
 This is a port of the famous Amiga Boing bouncing ball demo to the Agon
